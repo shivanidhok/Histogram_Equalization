@@ -1,5 +1,5 @@
 function [I_eq] = histeq_SGD(str)
-%% Funstion Description
+%% Function Description
 % Author: Shivani Dhok
 % Date of Creation: January 3, 2019
 % Digital Image Processing
